@@ -1,0 +1,15 @@
+{
+  "name": "03swapisatar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "swapi.js",
+  "scripts": {
+    "start": "node swapi.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fetch": "^1.1.0"
+  }
+}
