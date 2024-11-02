@@ -39,7 +39,9 @@ const peopleContainer = document.getElementById('people')
 
 searchInput.addEventListener('input', (event) => {
     getPeople(event.target.value) // Llamar a la función getPeople con el valor del input de búsqueda
+    
 })
+
 
 // Cargar personajes iniciales al cargar la página
 getPeople('')
